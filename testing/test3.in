@@ -1,0 +1,10 @@
+# Tests the automated game
+java -ea jump61.Main
+java -ea jump61.Main
+===#1===
+auto Red
+start
+%rb
+%e
+quit
+===#2===
